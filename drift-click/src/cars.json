@@ -1,0 +1,87 @@
+[
+    {
+        "id": 0,
+        "name": "Toyota Supra",
+        "image": "./images/toyota-supra.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 1,
+        "name": "Nissan 180sx",
+        "image": "./images/180sx.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 2,
+        "name": "Nissan 350z",
+        "image": "./images/350zred.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 3,
+        "name": "Toyota AE86",
+        "image": "./images/ae86.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 4,
+        "name": "Mitsubishi Evolution VIII",
+        "image": "./images/evo8.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 5,
+        "name": "Hyundai Genesis Coupe",
+        "image": "./images/gencoupe.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 6,
+        "name": "Lexus IS300",
+        "image": "./images/lexusis300.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 7,
+        "name": "Ford Mustang",
+        "image": "./images/mustang.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 8,
+        "name": "Porsche 911 RWB",
+        "image": "./images/porsche-rwb.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 9,
+        "name": "Nissan R34 GTR",
+        "image": "./images/r34gtr.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 10,
+        "name": "Mazda RX-7 FD",
+        "image": "./images/RX7-FD.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 11,
+        "name": "Nissan Silvia S15",
+        "image": "./images/s15silvia.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 12,
+        "name": "Honda S2000",
+        "image": "./images/s2000.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 13,
+        "name": "Toyota 86",
+        "image": "./images/toyota86.jpg",
+        "isClicked": false
+    }
+
+]
